@@ -1,4 +1,5 @@
 ##Project movies
+
 This is a project by Malin Göthe and Lars Söderman
 
 The assignment was to create a react application that fetches 20 recent movie releases from The Movie Database and present them in a list with poster image and some details that appear on hover. When clicked, each image leads to a dynamically created new page which fetches more detailed information on that movie. The design was provided along with the instructions for the assignment.
